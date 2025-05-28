@@ -1,0 +1,42 @@
+
+/* BORDERS..................... */
+
+/* h1 {
+    border: 3px solid aquamarine;
+    border-radius: 15px;
+} */
+
+/* SHADOWS.................. */
+
+
+/* h1 {
+    text-shadow: 1px 2px 5px red, -3px -3px 5px cyan;
+}
+
+#box1 {
+    width: 100px;
+    height: 100px;
+    background-color: gainsboro;
+    box-shadow: 2px 2px 5px ;
+} */
+
+/* MARGINS.............. Space around element */
+
+/* body {
+    margin: 0px;
+}
+
+.box {
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+#box1 {
+    background-color: red;
+    margin-top: 50px;
+}
+#box2 {
+    background-color: aqua;
+} */
